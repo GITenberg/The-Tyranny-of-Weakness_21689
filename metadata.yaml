@@ -22,6 +22,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/l#a36873
     - http://www.english.eku.edu/services/kylit/buck.htm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21689#The-Tyranny-of-Weakness
 gutenberg_issued: '2007-06-06'
 gutenberg_type: Text
 identifiers:
